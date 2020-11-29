@@ -128,7 +128,7 @@ Go ahead and `git add Bob.txt` like you've done before. As we know, this moves y
 
 I want to see the changes we just _staged_, so let's show the `git diff` again! You'll notice that this time the output is empty. This happens because `git diff` operates on the changes in your _Working Directory_ only. 
 
-To show what changes are already_staged_, we can use `git diff --staged` and we'll see the same diff output as before. 
+To show what changes are already _staged_, we can use `git diff --staged` and we'll see the same diff output as before. 
 
 I just noticed that we put two exclamation marks after the 'Hi'. I don't like that, so lets change `Bob.txt` again, so that it's just 'Hi!' 
 
