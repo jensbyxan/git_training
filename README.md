@@ -156,7 +156,7 @@ We might still want to know what change we just _committed_ and what was there b
 We can do that by comparing commits. 
 Every commit in git has a unique hash by which it is referenced. 
 
-If we have a look at the `git log` we'll not only see a list of all the commits with their _hash_ as well as _Author_ and _Date_, we also see the state of our _Local Repository_ and the latest local information about _remote branches_. 
+If we have a look at the `git log` we'll not only see a list of all the commits with their _hash_ as well as _Author_ and _Date_, we'll also see the state of our _Local Repository_ and the latest local information about _remote branches_. 
 
 Right now the `git log` looks something like this: 
 
